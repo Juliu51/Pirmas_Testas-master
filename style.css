@@ -1,5 +1,10 @@
 .wrapper div {
     background-color: red;
+    height: 200px;
+    width: 400px;
+    padding: 30px;
+    margin-top: calc(25% - 100px);
+    margin-left: calc(50% - 200px);
 }
 
 .wrapper p {
